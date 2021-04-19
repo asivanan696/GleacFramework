@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/apple/Desktop/GleacFramework/.metadata/.plugins/org.eclipse.jdt.core
+304821647.index
+3929544683.index
